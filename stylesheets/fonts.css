@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'Karloff Positive';
+  src: url('../fonts/KarloffPositivePro-Bld.woff') format('woff'),
+    url('../fonts/KarloffPositivePro-Bld.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Karloff Positive';
+  src: url('../fonts/KarloffPositivePro-BldIta.woff') format('woff'),
+    url('../fonts/KarloffPositivePro-BldIta.woff2') format('woff2');
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Karloff Positive';
+  src: url('../fonts/KarloffPositivePro-Reg.woff') format('woff'),
+    url('../fonts/KarloffPositivePro-Reg.woff2') format('woff2');
+  font-weight: 350;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Karloff Positive';
+  src: url('../fonts/KarloffPositivePro-RegIta.woff') format('woff'),
+    url('../fonts/KarloffPositivePro-RegIta.woff2') format('woff2');
+  font-weight: 350;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Karloff Positive';
+  src: url('../fonts/KarloffPositivePro-Med.woff') format('woff'),
+    url('../fonts/KarloffPositivePro-Med.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Karloff Positive';
+  src: url('../fonts/KarloffPositivePro-MedIta.woff') format('woff'),
+    url('../fonts/KarloffPositivePro-MedIta.woff2') format('woff2');
+  font-weight: 500;
+  font-style: italic;
+}
