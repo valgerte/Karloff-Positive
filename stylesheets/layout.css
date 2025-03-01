@@ -9,23 +9,6 @@ body {
   font-family: 'Karloff Positive';
   position: relative;
   scroll-behavior: smooth;
-  /*HEADER*/
-  .menu {
-    display: flex;
-    position: fixed;
-    top: 25px;
-    margin: 0px 40px;
-    z-index: 10;
-    width: 1360px;
-    height: 74px;
-    justify-content: space-between;
-    align-items: center;
-    padding: 16px;
-    border-radius: 128px;
-    border: 2px solid #259dff;
-    background: #78c2ff;
-    overflow: visible;
-  }
 }
 /*МАКЕТ
 body::after {
@@ -38,6 +21,23 @@ body::after {
   height: 6709px;
   opacity: 0.2;
 }*/
+/*HEADER*/
+.menu {
+  display: flex;
+  position: fixed;
+  top: 25px;
+  margin: 0px 40px;
+  z-index: 10;
+  width: 1360px;
+  height: 74px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+  border-radius: 128px;
+  border: 2px solid #259dff;
+  background: #78c2ff;
+  overflow: visible;
+}
 /*ОБЩИЕ СВОЙСТВА*/
 .die-dark-blue {
   display: inline-flex;
