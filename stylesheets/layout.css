@@ -512,13 +512,13 @@ body::after {
   flex: 1 0 0;
 }
 .fall {
-  background-image: url('/images/section-3-latin.svg');
+  background-image: url('../images/section-3-latin.svg');
 }
 .accept {
-  background-image: url('/images/section-3-grace.svg');
+  background-image: url('../images/section-3-grace.svg');
 }
 .wake {
-  background-image: url('/images/section-3-cyrillic.svg');
+  background-image: url('../images/section-3-cyrillic.svg');
 }
 /*БЛОК 4/ХАРАКТЕР*/
 .section-4 {
@@ -570,7 +570,7 @@ body::after {
 }
 .size-die-character-2-back {
   position: relative;
-  background: url('/images/section-4.svg');
+  background: url('../images/section-4.svg');
   display: flex;
   width: 708px;
   height: 367px;
