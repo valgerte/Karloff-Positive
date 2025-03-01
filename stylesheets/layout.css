@@ -305,7 +305,8 @@ body::after {
   color: #edf6ff;
 }
 .text-blue-stroke {
-  stroke: 3px #259dff;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: var(--, #259dff);
 }
 .space-vertical {
   display: flex;
